@@ -5,7 +5,7 @@ import Page from "gatsby-theme-timetable/src/pages";
 import Timetable from "gatsby-theme-timetable/src/components/Timetable";
 
 const PageIndex = ({ data, location }) => {
-  let root = data.allIAD2019Yaml.edges[0].node.data;
+  let root = data.allIad2019Yaml.edges[0].node.data;
   let teachers = data.teachers.edges[0].node.data.teachers;
   return (
     <Page location={location} data={data}>
@@ -29,7 +29,7 @@ export const query = graphql`
         authorUrl
       }
     }
-    teachers: allIAD2019Yaml(filter: { id: { eq: "IAD2019-teachers" } }) {
+    teachers: allIad2019Yaml(filter: { id: { eq: "IAD2019-teachers" } }) {
       edges {
         node {
           id
@@ -43,7 +43,7 @@ export const query = graphql`
       }
     }
 
-    allIAD2019Yaml(filter: { id: { eq: "IAD2019-2020FS" } }) {
+    allIad2019Yaml(filter: { id: { eq: "IAD2019-2020FS" } }) {
       edges {
         node {
           data {

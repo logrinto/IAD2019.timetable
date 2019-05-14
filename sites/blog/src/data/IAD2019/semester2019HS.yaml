@@ -4,21 +4,9 @@ data:
     title: Herbstsemester 2019
     slug: 2019-HS
     class: IAD2019
-    room: Zimmer 413 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+    room: Zimmer xxx · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
     notes: Schul- und Ferienzeiten noch nicht gesichert.
     links:
-      -
-        title: Herbstsemester 2017
-        href: /2017-HS
-      -
-        title: Frühlingssemester 2018
-        href: /2018-FS
-      -
-        title: Herbstsemester 2018
-        href: /2018-HS
-      -
-        title: Frühlingssemester 2019
-        href: /2019-FS
       -
         title: Herbstsemester 2019
         href: /2019-HS
