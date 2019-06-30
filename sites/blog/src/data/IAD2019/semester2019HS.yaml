@@ -553,11 +553,11 @@ data:
       FR:
         morning:
           teacher: ""
-          lession: DiyHardware
+          lession:
           comment:
         afternoon:
           teacher: ""
-          lession: DiyHardware
+          lession: 
           comment:
       SA:
         morning:
