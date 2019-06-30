@@ -112,31 +112,31 @@ data:
       id: KW34-2019
       FR:
         morning:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
         afternoon:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
     -
       id: KW35-2019
       FR:
         morning:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
         afternoon:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
       SA:
@@ -156,43 +156,43 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW37-2019
       FR:
         morning:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
         afternoon:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW38-2019
       FR:
         morning:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
         afternoon:
@@ -201,11 +201,11 @@ data:
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
@@ -216,36 +216,36 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW40-2019
       FR:
         morning:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
         afternoon:
-          teacher: ""
+          teacher: DF
           lession: community
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
@@ -292,91 +292,91 @@ data:
       id: KW43-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW44-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
       id: KW45-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: BV
           lession: ExpStory
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW46-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
         afternoon:
-          teacher: ""
+          teacher: MW
           lession: Agil
           comment:
     -
       id: KW47-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
@@ -385,18 +385,18 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
       id: KW48-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
@@ -405,43 +405,43 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
       id: KW49-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: UB
           lession: Costs
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
       id: KW50-2019
       FR:
         morning:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
         afternoon:
-          teacher: ""
+          teacher: HZ-BL
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: UB
           lession: Costs
           comment:
         afternoon:
@@ -521,11 +521,11 @@ data:
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: UB
           lession: Costs
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
@@ -541,11 +541,11 @@ data:
           comment:
       SA:
         morning:
-          teacher: ""
+          teacher: UB
           lession: Costs
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
@@ -565,7 +565,7 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
+          teacher: SH
           lession: LAB
           comment:
     -
