@@ -11,9 +11,6 @@ data:
         title: Herbstsemester 2019
         href: /2019-HS
         class: current
-      -
-        title: Frühlingssemester 2020
-        href: /2020-FS
 
   lessions:
     -
@@ -115,519 +112,519 @@ data:
       id: KW34-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: community
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: community
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
     -
       id: KW35-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: community
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: csInterface
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: csInterface
           comment:
     -
       id: KW36-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: community
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW37-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: community
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW38-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: community
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW39-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW40-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: community
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: community
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW41-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
     -
       id: KW42-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Herbstferien
     -
       id: KW43-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW44-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW45-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW46-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: Agil
           comment:
     -
       id: KW47-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW48-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW49-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: Costs
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW50-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: GridModule
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: Costs
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment:
     -
       id: KW51-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
     -
       id: KW52-2019
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
     -
       id: KW01-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Weihnachtsferien
     -
       id: KW02-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: Costs
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW03-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession: Costs
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW04-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession: DiyHardware
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: DiyHardware
           comment:
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment:
         afternoon:
-          teacher:
+          teacher: ""
           lession: LAB
           comment:
     -
       id: KW05-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: kein Unterricht
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: kein Unterricht
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: kein Unterricht
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: kein Unterricht
     -
       id: KW06-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
     -
       id: KW07-2020
       FR:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
       SA:
         morning:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien
         afternoon:
-          teacher:
+          teacher: ""
           lession:
           comment: Sportferien

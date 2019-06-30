@@ -10,10 +10,6 @@ data:
       -
         title: Herbstsemester 2019
         href: /2019-HS
-      -
-        title: Frühlingssemester 2020
-        href: /2020-FS
-        class: current
 
   lessions:
     -
@@ -45,8 +41,8 @@ data:
       title: Interaktive Grafiken
       color: cyan
     -
-      id: Marketing
-      title: Marketing & Analyse – KMU
+      id: cms
+      title: CMS & API
       color: cyan
     -
       id: FontDay
@@ -153,519 +149,519 @@ data:
       id: KW08-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW09-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW10-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW11-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW12-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW13-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW14-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW15-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Karfreitag
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Karfreitag
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Ostern
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Ostern
     -
       id: KW16-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
     -
       id: KW17-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Frühlingsferien
     -
       id: KW18-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW19-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW20-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW21-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Auffahrt
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Auffahrt
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Auffahrt
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Auffahrt
     -
       id: KW22-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW23-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW24-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW25-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW26-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW27-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW28-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment:
     -
       id: KW29-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
     -
       id: KW30-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
     -
       id: KW31-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
     -
       id: KW32-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
     -
       id: KW33-2020
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
         afternoon:
-          teacher:
-          lession:
+          teacher: ""
+          lession: ""
           comment: Sommerferien
