@@ -5,7 +5,7 @@ data:
     slug: 2019-HS
     class: IAD2019
     room: Zimmer xxx · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
-    notes: Schul- und Ferienzeiten noch nicht gesichert.
+    notes: ""
     links:
       -
         title: Herbstsemester 2019
@@ -99,141 +99,141 @@ data:
       id: KW34-2019
       FR:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: documentation
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
     -
       id: KW35-2019
       FR:
         morning:
-          teacher: UF
-          lession: thesisprep
+          teacher:
+          lession:
           comment:
         afternoon:
-          teacher: UF
-          lession: thesisprep
+          teacher:
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
     -
       id: KW36-2019
       FR:
         morning:
           teacher:
-          lession: presentation
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
     -
       id: KW37-2019
       FR:
         morning:
           teacher:
-          lession: thesisprep
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesisprep
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
     -
       id: KW38-2019
       FR:
         morning:
           teacher:
-          lession: presentation
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: gameDesign
+          lession:
           comment:
     -
       id: KW39-2019
       FR:
         morning:
           teacher:
-          lession: presentation
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: presentation
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: Crossmedia
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: Crossmedia
+          lession:
           comment:
     -
       id: KW40-2019
       FR:
         morning:
           teacher:
-          lession: sponsoring
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: Crossmedia
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: Crossmedia
+          lession:
           comment:
     -
       id: KW41-2019
@@ -280,160 +280,160 @@ data:
       FR:
         morning:
           teacher:
-          lession: csInterface
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: csInterface
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
     -
       id: KW44-2019
       FR:
         morning:
           teacher:
-          lession: projectLead
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
     -
       id: KW45-2019
       FR:
         morning:
           teacher:
-          lession: projectLead
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
     -
       id: KW46-2019
       FR:
         morning:
           teacher:
-          lession: projectLead
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
     -
       id: KW47-2019
       FR:
         morning:
           teacher:
-          lession: projectLead
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: userinterface1x1
+          lession:
           comment:
     -
       id: KW48-2019
       FR:
         morning:
           teacher:
-          lession: projectLead
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: designStructure
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: designStructure
+          lession:
           comment:
     -
       id: KW49-2019
       FR:
         morning:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: designStructure
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: designStructure
+          lession:
           comment:
     -
       id: KW50-2019
       FR:
         morning:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: designStructure
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: designStructure
+          lession:
           comment:
     -
       id: KW51-2019
@@ -500,80 +500,80 @@ data:
       FR:
         morning:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: didacticDesign
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
     -
       id: KW03-2020
       FR:
         morning:
           teacher:
-          lession: LAB
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
     -
       id: KW04-2020
       FR:
         morning:
           teacher:
-          lession: LAB
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: LAB
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
     -
       id: KW05-2020
       FR:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
       SA:
         morning:
           teacher:
-          lession: thesis
+          lession:
           comment:
         afternoon:
           teacher:
-          lession: thesis
+          lession:
           comment:
     -
       id: KW06-2020
