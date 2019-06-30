@@ -89,10 +89,26 @@ data:
       id: thesisprep
       title: Thesis – Einführung & Themenfindung
       color: green
-  #  Guest:
-  #    title: Gastreferat
-  #    color: mint
-
+    -
+      id: ExpStory
+      title: Experimentelles Erzählen
+      color: light-green
+    -
+      id: community
+      title: Community Building
+      color: cold-green
+    -
+      id: Agil
+      title: Agile Planung
+      color: light-brown
+    -
+      id: Costs
+      title: Was kostet meine Stunde?
+      color: orange
+    -
+      id: GridModule
+      title: Grids & Modules  – Systeme für die Gestaltung
+      color: magenta
 
   date:
     -
@@ -100,40 +116,40 @@ data:
       FR:
         morning:
           teacher:
-          lession:
+          lession: community
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: community
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
     -
       id: KW35-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: LAB
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: community
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: csInterface
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: csInterface
           comment:
     -
       id: KW36-2019
@@ -144,43 +160,43 @@ data:
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: community
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW37-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: LAB
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: community
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW38-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: community
           comment:
         afternoon:
           teacher:
@@ -189,11 +205,11 @@ data:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW39-2019
@@ -204,36 +220,36 @@ data:
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW40-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: community
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: community
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW41-2019
@@ -280,91 +296,91 @@ data:
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW44-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW45-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: ExpStory
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW46-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: Agil
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: Agil
           comment:
     -
       id: KW47-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
@@ -373,18 +389,18 @@ data:
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW48-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
@@ -393,43 +409,43 @@ data:
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW49-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: Costs
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW50-2019
       FR:
         morning:
           teacher:
-          lession:
+          lession: GridModule
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: GridModule
           comment:
       SA:
         morning:
           teacher:
-          lession:
+          lession: Costs
           comment:
         afternoon:
           teacher:
@@ -509,11 +525,11 @@ data:
       SA:
         morning:
           teacher:
-          lession:
+          lession: Costs
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW03-2020
@@ -529,22 +545,22 @@ data:
       SA:
         morning:
           teacher:
-          lession:
+          lession: Costs
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW04-2020
       FR:
         morning:
           teacher:
-          lession:
+          lession: DiyHardware
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: DiyHardware
           comment:
       SA:
         morning:
@@ -553,7 +569,7 @@ data:
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: LAB
           comment:
     -
       id: KW05-2020
@@ -561,20 +577,20 @@ data:
         morning:
           teacher:
           lession:
-          comment:
+          comment: kein Unterricht
         afternoon:
           teacher:
           lession:
-          comment:
+          comment: kein Unterricht
       SA:
         morning:
           teacher:
           lession:
-          comment:
+          comment: kein Unterricht
         afternoon:
           teacher:
           lession:
-          comment:
+          comment: kein Unterricht
     -
       id: KW06-2020
       FR:
