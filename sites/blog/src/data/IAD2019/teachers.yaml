@@ -145,3 +145,17 @@ data:
     -
       id: MB
       name: Marcel Bernet
+    -
+      id: HBGS
+      name: Heidi Bernard & Gabrielle Schmid
+    -
+      id: CA
+      name: Charlotte Axelsson
+    -
+      id: FSOTHER
+      name: Fabian Scheiwiller & (noch offen)
+      comment:
+    -
+      id: AEB
+      name: Andreas Eberhard
+      comment:
