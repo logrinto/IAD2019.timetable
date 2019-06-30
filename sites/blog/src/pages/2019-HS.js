@@ -89,13 +89,6 @@ export const query = graphql`
                   comment
                 }
               }
-              week {
-                all {
-                  teacher
-                  lession
-                  comment
-                }
-              }
             }
           }
         }
