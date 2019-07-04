@@ -15,7 +15,7 @@ data:
   lessions:
     -
       id: LAB
-      title: LAB
+      title: LAB*
       color: dark-red
     -
       id: ArtContext
@@ -52,7 +52,7 @@ data:
       color: gray-violet
     -
       id: csInterface
-      title: Case Study – Interface
+      title: Case Study – Interface*
       color: mint
   #  MobileTypo:
   #    title: Typografie am mobilen Gerät
@@ -88,23 +88,23 @@ data:
       color: green
     -
       id: ExpStory
-      title: Experimentelles Erzählen
+      title: Experimentelles Erzählen*
       color: light-green
     -
       id: community
-      title: Community Building
+      title: Community Building*
       color: cold-green
     -
       id: Agil
-      title: Agile Planung
+      title: Agile Planung*
       color: light-brown
     -
       id: Costs
-      title: Was kostet meine Stunde?
+      title: Was kostet meine Stunde?*
       color: orange
     -
       id: GridModule
-      title: Grids & Modules  – Systeme für die Gestaltung
+      title: Grids & Modules  – Systeme für die Gestaltung*
       color: magenta
 
   date:
@@ -132,12 +132,12 @@ data:
       id: KW35-2019
       FR:
         morning:
-          teacher: SH
-          lession: LAB
-          comment:
-        afternoon:
           teacher: DF
           lession: community
+          comment:
+        afternoon:
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
@@ -156,8 +156,8 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: DF
-          lession: community
+          teacher:
+          lession:
           comment:
       SA:
         morning:
@@ -176,8 +176,8 @@ data:
           lession: LAB
           comment:
         afternoon:
-          teacher: DF
-          lession: community
+          teacher:
+          lession:
           comment:
       SA:
         morning:
@@ -192,8 +192,8 @@ data:
       id: KW38-2019
       FR:
         morning:
-          teacher: DF
-          lession: community
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher: ""
@@ -381,12 +381,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: ""
-          lession:
+          teacher: DF
+          lession: community
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: DF
+          lession: community
           comment:
     -
       id: KW48-2019
@@ -401,8 +401,8 @@ data:
           comment:
       SA:
         morning:
-          teacher: ""
-          lession:
+          teacher: DF
+          lession: community
           comment:
         afternoon:
           teacher: SH
@@ -421,8 +421,8 @@ data:
           comment:
       SA:
         morning:
-          teacher: UB
-          lession: Costs
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher: SH
@@ -557,12 +557,12 @@ data:
           comment:
         afternoon:
           teacher: ""
-          lession: 
+          lession:
           comment:
       SA:
         morning:
-          teacher: ""
-          lession:
+          teacher: UB
+          lession: Costs
           comment:
         afternoon:
           teacher: SH

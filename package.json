@@ -9,7 +9,8 @@
     "build": "yarn workspace IAD2019-timetable build",
     "ics": "yarn workspace IAD2019-timetable ics",
     "start": "yarn develop",
-    "develop": "yarn workspace IAD2019-timetable develop"
+    "develop": "yarn workspace IAD2019-timetable develop",
+    "clear": "rm -rf sites/blog/.cache/"
   },
   "workspaces": [
     "themes/*",
