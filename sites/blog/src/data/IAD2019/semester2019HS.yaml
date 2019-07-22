@@ -88,11 +88,11 @@ data:
       color: green
     -
       id: ExpStory
-      title: Experimentelles Erzählen*
+      title: Experimentelles Erzählen
       color: light-green
     -
       id: community
-      title: Community Building*
+      title: Community Building
       color: cold-green
     -
       id: Agil
@@ -100,12 +100,30 @@ data:
       color: light-brown
     -
       id: Costs
-      title: Was kostet meine Stunde?*
+      title: Was kostet meine Stunde?
       color: orange
     -
       id: GridModule
       title: Grids & Modules  – Systeme für die Gestaltung*
       color: magenta
+    -
+      id: CD-Starter
+      title: Corporate Design (UX)
+      color: black
+    -
+      id: Fontdesign
+      title: Fontdesign*
+      color: cold-green
+
+    -
+      id: YouTube
+      title: YouTube – Inhalte & Kanäle*
+      color: light-brown
+    -
+      id: ArtContext
+      title: Medien-/Technologiegeschichte
+      color: violet
+
 
   date:
     -
@@ -152,8 +170,8 @@ data:
       id: KW36-2019
       FR:
         morning:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
           teacher:
@@ -165,19 +183,19 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher: MW
-          lession: Agil
+          teacher:
+          lession:
           comment:
     -
       id: KW37-2019
       FR:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
@@ -185,19 +203,19 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher: MW
-          lession: Agil
+          teacher:
+          lession:
           comment:
     -
       id: KW38-2019
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
       SA:
         morning:
@@ -212,8 +230,8 @@ data:
       id: KW39-2019
       FR:
         morning:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
           teacher: SH
@@ -245,8 +263,8 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher: MW
-          lession: Agil
+          teacher:
+          lession: ArtContext
           comment:
     -
       id: KW41-2019
@@ -292,12 +310,12 @@ data:
       id: KW43-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher:
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: DK
+          lession: Fontdesign
           comment:
       SA:
         morning:
@@ -312,12 +330,12 @@ data:
       id: KW44-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher:
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: DK
+          lession: Fontdesign
           comment:
       SA:
         morning:
@@ -332,12 +350,12 @@ data:
       id: KW45-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher:
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: DK
+          lession: Fontdesign
           comment:
       SA:
         morning:
@@ -352,12 +370,12 @@ data:
       id: KW46-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher:
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: DK
+          lession: Fontdesign
           comment:
       SA:
         morning:
@@ -372,12 +390,12 @@ data:
       id: KW47-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher:
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: DK
+          lession: Fontdesign
           comment:
       SA:
         morning:
@@ -392,12 +410,12 @@ data:
       id: KW48-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
       SA:
         morning:
@@ -412,32 +430,32 @@ data:
       id: KW49-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
       SA:
         morning:
-          teacher:
-          lession:
+          teacher: MW
+          lession: Agil
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: MW
+          lession: Agil
           comment:
     -
       id: KW50-2019
       FR:
         morning:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
         afternoon:
-          teacher: HZ-BL
-          lession: GridModule
+          teacher: CT
+          lession: CD-Starter
           comment:
       SA:
         morning:
@@ -445,8 +463,8 @@ data:
           lession: Costs
           comment:
         afternoon:
-          teacher: ""
-          lession:
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW51-2019
@@ -516,8 +534,8 @@ data:
           lession:
           comment:
         afternoon:
-          teacher: ""
-          lession:
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
@@ -525,8 +543,8 @@ data:
           lession: Costs
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: MW
+          lession: Agil
           comment:
     -
       id: KW03-2020
