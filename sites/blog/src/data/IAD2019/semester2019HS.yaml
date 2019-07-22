@@ -19,7 +19,7 @@ data:
       color: dark-red
     -
       id: ArtContext
-      title: Medien-/Technologiegeschichte
+      title: Medien-/Technologiegeschichte*
       color: violet
     -
       id: TypeHistory
@@ -119,10 +119,7 @@ data:
       id: YouTube
       title: YouTube – Inhalte & Kanäle*
       color: light-brown
-    -
-      id: ArtContext
-      title: Medien-/Technologiegeschichte
-      color: violet
+
 
 
   date:
