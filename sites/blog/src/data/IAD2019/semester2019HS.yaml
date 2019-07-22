@@ -96,7 +96,7 @@ data:
       color: cold-green
     -
       id: Agil
-      title: Agile Planung*
+      title: Agile Planung
       color: light-brown
     -
       id: Costs
@@ -112,7 +112,7 @@ data:
       color: black
     -
       id: Fontdesign
-      title: Fontdesign*
+      title: Fontdesign
       color: cold-green
 
     -
@@ -167,8 +167,8 @@ data:
       id: KW36-2019
       FR:
         morning:
-          teacher: NH
-          lession: YouTube
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher:
@@ -187,8 +187,8 @@ data:
       id: KW37-2019
       FR:
         morning:
-          teacher: NH
-          lession: YouTube
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher: SH
@@ -207,12 +207,12 @@ data:
       id: KW38-2019
       FR:
         morning:
-          teacher: NH
-          lession: YouTube
+          teacher:
+          lession:
           comment:
         afternoon:
-          teacher: NH
-          lession: YouTube
+          teacher:
+          lession:
           comment:
       SA:
         morning:
@@ -227,8 +227,8 @@ data:
       id: KW39-2019
       FR:
         morning:
-          teacher: NH
-          lession: YouTube
+          teacher:
+          lession:
           comment:
         afternoon:
           teacher: SH
@@ -527,8 +527,8 @@ data:
       id: KW02-2020
       FR:
         morning:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
           teacher: SH
@@ -547,12 +547,12 @@ data:
       id: KW03-2020
       FR:
         morning:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
       SA:
         morning:
@@ -567,12 +567,12 @@ data:
       id: KW04-2020
       FR:
         morning:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
         afternoon:
-          teacher: ""
-          lession:
+          teacher: NH
+          lession: YouTube
           comment:
       SA:
         morning:
