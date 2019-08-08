@@ -24,7 +24,7 @@ data:
     -
       id: TypeHistory
       title: Technologiegeschichte der Schrift
-      color: violet
+      color: mint
     -
       id: designStructure
       title: Design strukturieren
@@ -68,7 +68,7 @@ data:
       color: magenta
     -
       id: DiyHardware
-      title: Interaktion mit DIY–Hardware
+      title: Interaktion mit DIY–Hardware*
       color: bordeaux
     -
       id: presentation
@@ -117,10 +117,16 @@ data:
 
     -
       id: YouTube
-      title: YouTube – Inhalte & Kanäle*
+      title: YouTube – Inhalte & Kanäle
       color: light-brown
-
-
+    -
+      id: DataLiteracy
+      title: Journalismus – Data Literacy*
+      color: gray-violet
+    -
+      id: FontOnScreen
+      title: Bildschirme und Fonts
+      color: magenta
 
   date:
     -
@@ -168,11 +174,11 @@ data:
       FR:
         morning:
           teacher:
-          lession:
+          lession: DiyHardware
           comment:
         afternoon:
           teacher:
-          lession:
+          lession: DiyHardware
           comment:
       SA:
         morning:
@@ -180,15 +186,15 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: TG
+          lession: DataLiteracy
           comment:
     -
       id: KW37-2019
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: SH
+          lession: FontOnScreen
           comment:
         afternoon:
           teacher: SH
@@ -200,19 +206,19 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: TG
+          lession: DataLiteracy
           comment:
     -
       id: KW38-2019
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: TG
+          lession: DataLiteracy
           comment:
         afternoon:
-          teacher:
-          lession:
+          teacher: TG
+          lession: DataLiteracy
           comment:
       SA:
         morning:
@@ -227,12 +233,12 @@ data:
       id: KW39-2019
       FR:
         morning:
-          teacher:
-          lession:
+          teacher: SH
+          lession: TypeHistory
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: UF
+          lession: ArtContext
           comment:
       SA:
         morning:
@@ -260,8 +266,8 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher:
-          lession: ArtContext
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW41-2019
@@ -307,7 +313,7 @@ data:
       id: KW43-2019
       FR:
         morning:
-          teacher:
+          teacher: UF
           lession: ArtContext
           comment:
         afternoon:
@@ -327,7 +333,7 @@ data:
       id: KW44-2019
       FR:
         morning:
-          teacher:
+          teacher: UF
           lession: ArtContext
           comment:
         afternoon:
@@ -347,7 +353,7 @@ data:
       id: KW45-2019
       FR:
         morning:
-          teacher:
+          teacher: UF
           lession: ArtContext
           comment:
         afternoon:
@@ -367,7 +373,7 @@ data:
       id: KW46-2019
       FR:
         morning:
-          teacher:
+          teacher: UF
           lession: ArtContext
           comment:
         afternoon:
@@ -387,7 +393,7 @@ data:
       id: KW47-2019
       FR:
         morning:
-          teacher:
+          teacher: UF
           lession: ArtContext
           comment:
         afternoon:
