@@ -135,7 +135,7 @@ data:
         morning:
           teacher: DF
           lession: community
-          comment:
+          comment: 10:30 Uhr Begrüssung Jonas Schudel & Yvonne Koppitsch
         afternoon:
           teacher: DF
           lession: community
@@ -159,7 +159,7 @@ data:
         afternoon:
           teacher: SH
           lession: LAB
-          comment:
+          comment: 13:15 Uhr IT Melanie Fries | 14:00 Fototermin Yvonne Koppitsch (Zimmer 110)
       SA:
         morning:
           teacher: ""
