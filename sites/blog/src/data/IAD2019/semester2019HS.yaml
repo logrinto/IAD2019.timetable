@@ -237,8 +237,8 @@ data:
           lession: TypeHistory
           comment:
         afternoon:
-          teacher: UF
-          lession: ArtContext
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
@@ -426,8 +426,8 @@ data:
           lession: community
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: UF
+          lession: ArtContext
           comment:
     -
       id: KW49-2019
