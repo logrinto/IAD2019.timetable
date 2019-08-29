@@ -163,34 +163,14 @@ data:
       SA:
         morning:
           teacher: ""
-          lession: csInterface
+          lession: DiyHardware
           comment:
         afternoon:
           teacher: ""
-          lession: csInterface
+          lession: DiyHardware
           comment:
     -
       id: KW36-2019
-      FR:
-        morning:
-          teacher:
-          lession: DiyHardware
-          comment:
-        afternoon:
-          teacher:
-          lession: DiyHardware
-          comment:
-      SA:
-        morning:
-          teacher: BV
-          lession: ExpStory
-          comment:
-        afternoon:
-          teacher: TG
-          lession: DataLiteracy
-          comment:
-    -
-      id: KW37-2019
       FR:
         morning:
           teacher: SH
@@ -206,18 +186,38 @@ data:
           lession: ExpStory
           comment:
         afternoon:
-          teacher: TG
+          teacher:
+          lession: DataLiteracy
+          comment:
+    -
+      id: KW37-2019
+      FR:
+        morning:
+          teacher: 
+          lession: csInterface
+          comment:
+        afternoon:
+          teacher: 
+          lession: csInterface
+          comment:
+      SA:
+        morning:
+          teacher: BV
+          lession: ExpStory
+          comment:
+        afternoon:
+          teacher:
           lession: DataLiteracy
           comment:
     -
       id: KW38-2019
       FR:
         morning:
-          teacher: TG
+          teacher:
           lession: DataLiteracy
           comment:
         afternoon:
-          teacher: TG
+          teacher:
           lession: DataLiteracy
           comment:
       SA:
