@@ -11,6 +11,9 @@ data:
         title: Herbstsemester 2019
         href: /2019-HS
         class: current
+      -
+        title: Frühlingssemester 2020
+        href: /2020-FS
 
   lessions:
     -

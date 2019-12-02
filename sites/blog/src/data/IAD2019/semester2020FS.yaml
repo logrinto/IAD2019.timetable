@@ -10,15 +10,24 @@ data:
       -
         title: Herbstsemester 2019
         href: /2019-HS
+      -
+        title: Frühlingssemester 2020
+        href: /2020-FS
+        class: current
 
   lessions:
     -
       id: LAB
       title: LAB
       color: dark-red
+
+    -
+      id: infografik
+      title: Infografik
+      color: petrol
     -
       id: ArtContext
-      title: Medien-/Technologiegeschichte
+      title: Medien-/Technologiegeschichte*
       color: violet
     -
       id: TypeHistory
@@ -52,7 +61,10 @@ data:
       id: diplom
       title: Diplom (selbstständige Arbeit)
       color: green
-
+    -
+      id: geolocation
+      title: Maps und Daten*
+      color: orange
 
     -
       id: blogs
@@ -60,10 +72,21 @@ data:
       color: light-brown
     -
       id: csInterface
-      title: Case Study – Interface
+      title: Case Study – Interface*
       color: mint
 
-
+    -
+      id: CD-Starter
+      title: Corporate Design (UX)*
+      color: black
+    -
+      id: production
+      title: Digitale/Analoge Produktionsmittel*
+      color: dark-green
+    -
+      id: FabLab
+      title: Digital Fabrication*
+      color: green
 
     -
       id: socialMedia
@@ -72,20 +95,29 @@ data:
 
     -
       id: AltDesign
-      title: Alternate & Design
+      title: Alternate & Design*
       color: cyan
 
     -
       id: ProjektWeek
       title: Projektwoche
       color: gray-violet
-
+    -
+      id: ProjectManagement
+      title: Projektplanung*
+      color: light-brown
 
     -
       id: DataJournalism
       title: Interaktion und Journalismus
       color: gray-violet
 
+
+
+    -
+      id: DataLiteracy
+      title: Journalismus – Data Literacy*
+      color: gray-violet
 
     -
       id: IoT
@@ -111,10 +143,10 @@ data:
 
 
 
-
-  #  MobileTypo:
-  #    title: Typografie am mobilen Gerät
-  #    color: dark-green
+    -
+      id: colormanagement
+      title: Color Management
+      color: light-brown
 
   #  Crossmedia:
   #    title: Crossmedia von der Datenbank zur Ausgabe
@@ -126,7 +158,7 @@ data:
       color: magenta
     -
       id: DiyHardware
-      title: Interaktion mit DIY–Hardware
+      title: Interaktion mit DIY–Hardware*
       color: bordeaux
     -
       id: Agil
@@ -149,519 +181,519 @@ data:
       id: KW08-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: FM
+          lession: colormanagement
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AB
+          lession: AltDesign
           comment:
     -
       id: KW09-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession: FabLab
+          comment: Treffen im FabLab-Zürich (Zimmerlistrasse 6, 8004 Zürich)
         afternoon:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession: FabLab
+          comment: Treffen im FabLab-Zürich (Zimmerlistrasse 6, 8004 Zürich)
       SA:
         morning:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher: RB
+          lession: production
+          comment: Bleisatz – Zimmer Lp U56
         afternoon:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher: RB
+          lession: production
+          comment: Bleisatz – Zimmer Lp U56
     -
       id: KW10-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AB
+          lession: AltDesign
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: TG
+          lession: DataLiteracy
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: TG
+          lession: DataLiteracy
           comment:
     -
       id: KW11-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: TG
+          lession: DataLiteracy
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: TG
+          lession: DataLiteracy
           comment:
     -
       id: KW12-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession: csInterface
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession: csInterface
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW13-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AB
+          lession: AltDesign
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
     -
       id: KW14-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: UF
+          lession: ArtContext
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AB
+          lession: AltDesign
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession: FontDay
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession: FontDay
           comment:
     -
       id: KW15-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Karfreitag
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Karfreitag
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Ostern
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Ostern
     -
       id: KW16-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
     -
       id: KW17-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Frühlingsferien
     -
       id: KW18-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: 1. Mai
         afternoon:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: 1. Mai
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
     -
       id: KW19-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
     -
       id: KW20-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
     -
       id: KW21-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Auffahrt
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Auffahrt
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Auffahrt
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Auffahrt
     -
       id: KW22-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: MW
+          lession: ProjectManagement
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW23-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:  GridModule
           comment:
     -
       id: KW24-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: HZ-BL
+          lession: GridModule
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW25-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: VM
+          lession: DiyHardware
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: VM
+          lession: DiyHardware
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: VM
+          lession: DiyHardware
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: VM
+          lession: DiyHardware
           comment:
     -
       id: KW26-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: MW
+          lession: ProjectManagement
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: MW
+          lession: ProjectManagement
           comment:
     -
       id: KW27-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: AC
+          lession: infografik
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher: MW
+          lession: ProjectManagement
           comment:
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher: MW
+          lession: ProjectManagement
           comment:
     -
       id: KW28-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: kein Unterricht
         afternoon:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: kein Unterricht
       SA:
         morning:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: kein Unterricht
         afternoon:
-          teacher: ""
-          lession: ""
-          comment:
+          teacher:
+          lession:
+          comment: kein Unterricht
     -
       id: KW29-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
     -
       id: KW30-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
     -
       id: KW31-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
     -
       id: KW32-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
     -
       id: KW33-2020
       FR:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
       SA:
         morning:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
         afternoon:
-          teacher: ""
-          lession: ""
+          teacher:
+          lession:
           comment: Sommerferien
