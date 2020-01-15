@@ -574,7 +574,7 @@ data:
         afternoon:
           teacher: SH
           lession: LAB
-          comment:
+          comment: Semesterprüfung
     -
       id: KW04-2020
       FR:
