@@ -81,7 +81,7 @@ data:
       color: black
     -
       id: production
-      title: Digitale/Analoge Produktionsmittel*
+      title: Digitale/Analoge Produktionsmittel
       color: dark-green
     -
       id: FabLab
@@ -158,7 +158,7 @@ data:
       color: magenta
     -
       id: DiyHardware
-      title: Interaktion mit DIY–Hardware*
+      title: Interaktion mit DIY–Hardware
       color: bordeaux
     -
       id: Agil
