@@ -85,7 +85,7 @@ data:
       color: dark-green
     -
       id: FabLab
-      title: Digital Fabrication*
+      title: Digital Fabrication
       color: green
 
     -
@@ -95,7 +95,7 @@ data:
 
     -
       id: AltDesign
-      title: Alternate & Design*
+      title: Alternate & Design
       color: cyan
 
     -
@@ -104,7 +104,7 @@ data:
       color: gray-violet
     -
       id: ProjectManagement
-      title: Projektplanung*
+      title: Projektplanung
       color: light-brown
 
     -
@@ -116,7 +116,7 @@ data:
 
     -
       id: DataLiteracy
-      title: Journalismus – Data Literacy*
+      title: Journalismus – Data Literacy
       color: gray-violet
 
     -
@@ -201,11 +201,11 @@ data:
       id: KW09-2020
       FR:
         morning:
-          teacher:
+          teacher: MA
           lession: FabLab
           comment: Treffen im FabLab-Zürich (Zimmerlistrasse 6, 8004 Zürich)
         afternoon:
-          teacher:
+          teacher: MA
           lession: FabLab
           comment: Treffen im FabLab-Zürich (Zimmerlistrasse 6, 8004 Zürich)
       SA:
