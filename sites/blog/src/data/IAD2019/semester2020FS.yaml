@@ -172,6 +172,10 @@ data:
       id: Business
       title: Unternehmensziele
       color: orange
+    -
+      id: eq
+      title: Emotional Intelligence
+      color: orange
   #  Guest:
   #    title: Gastreferat
   #    color: mint
@@ -181,8 +185,8 @@ data:
       id: KW08-2020
       FR:
         morning:
-          teacher: UF
-          lession: ArtContext
+          teacher: JB
+          lession: eq
           comment:
         afternoon:
           teacher: FM
