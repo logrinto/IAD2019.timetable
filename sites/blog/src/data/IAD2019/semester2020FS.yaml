@@ -27,7 +27,7 @@ data:
       color: petrol
     -
       id: ArtContext
-      title: Medien-/Technologiegeschichte*
+      title: Medien-/Technologiegeschichte
       color: violet
     -
       id: TypeHistory
@@ -72,7 +72,7 @@ data:
       color: light-brown
     -
       id: csInterface
-      title: Case Study – Interface*
+      title: Case Study – Interface
       color: mint
 
     -
@@ -265,11 +265,11 @@ data:
       id: KW12-2020
       FR:
         morning:
-          teacher:
+          teacher: MSK-SH
           lession: csInterface
           comment:
         afternoon:
-          teacher:
+          teacher: MSK-SH
           lession: csInterface
           comment:
       SA:
