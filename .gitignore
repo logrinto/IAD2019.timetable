@@ -4,3 +4,4 @@
 /sites/blog/.cache
 /sites/blog/node_modules
 /sites/blog/public
+/sites/blog/src/data/IAD2019/Fächertafel.xlsx
