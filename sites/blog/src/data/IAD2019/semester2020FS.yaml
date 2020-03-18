@@ -314,13 +314,13 @@ data:
           comment:
       SA:
         morning:
-          teacher:
-          lession: FontDay
-          comment:
+          teacher: AC
+          lession: infografik
+          comment: Vorgezogen – ersetzt Tag der Schrift
         afternoon:
-          teacher:
-          lession: FontDay
-          comment:
+          teacher: AC
+          lession: infografik
+          comment: Vorgezogen – ersetzt Tag der Schrift
     -
       id: KW15-2020
       FR:
@@ -545,13 +545,13 @@ data:
       id: KW26-2020
       FR:
         morning:
-          teacher: AC
-          lession: infografik
-          comment:
+          teacher:
+          lession:
+          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift) 
         afternoon:
-          teacher: AC
-          lession: infografik
-          comment:
+          teacher:
+          lession:
+          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift) 
       SA:
         morning:
           teacher: MW
