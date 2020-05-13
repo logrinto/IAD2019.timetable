@@ -38,6 +38,9 @@ data:
       id: JS-SH
       name: Jonas Shriqui & Stefan Huber
     -
+      id: JS
+      name: Jonas Schudel
+    -
       id: MS
       name: Markus Sing
       comment: "Nicht: erstes Septemberwochenende, letztes Oktoberwochenende, erstes Novemberwochenende"

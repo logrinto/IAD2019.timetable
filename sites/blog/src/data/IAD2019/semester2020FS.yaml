@@ -549,11 +549,11 @@ data:
         morning:
           teacher:
           lession:
-          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift)
+          comment: Ausfall – Lektion wurde von KW14 verschoben (Tag der Scchrift)
         afternoon:
           teacher:
           lession:
-          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift)
+          comment: Ausfall – Lektion wurde von KW14 verschoben (Tag der Scchrift)
       SA:
         morning:
           teacher: MW

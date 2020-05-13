@@ -24,6 +24,10 @@ data:
       title: LAB
       color: dark-red
     -
+      id: test
+      title: Semesterprüfung
+      color: dark-red
+    -
       id: ArtContext
       title: Medien-/Technologiegeschichte
       color: violet
@@ -576,8 +580,8 @@ data:
           comment:
         afternoon:
           teacher: SH
-          lession: LAB
-          comment: Semesterprüfung
+          lession: test
+          comment:
     -
       id: KW04-2020
       FR:

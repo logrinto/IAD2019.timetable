@@ -1,15 +1,21 @@
 import React from "react";
-import get from 'lodash/get'
+import get from "lodash/get";
 import { graphql } from "gatsby";
 
 import Page from "gatsby-theme-timetable/src/pages";
 import Timetable from "gatsby-theme-timetable/src/components/Timetable";
 
 const PageIndex = ({ data, location }) => {
-  const generation = get(data, 'site.siteMetadata.generation')
+  const generation = get(data, "site.siteMetadata.generation");
+  const root = get(data, "allIad2019Yaml.edges[0].node.data");
+  const teachers = get(data, "teachers.edges[0].node.data.teachers");
 
-  let root = data.allIad2019Yaml.edges[0].node.data;
-  let teachers = data.teachers.edges[0].node.data.teachers;
+  if (!root || !teachers) {
+    return null;
+  }
+
+  // let root = data.allIad2019Yaml.edges[0].node.data;
+  // let teachers = data.teachers.edges[0].node.data.teachers;
   return (
     <Page location={location} data={data}>
       <Timetable
