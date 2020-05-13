@@ -14,6 +14,9 @@ data:
       -
         title: Frühlingssemester 2020
         href: /2020-FS
+      -
+        title: Herbstsemester 2020
+        href: /2020-HS
 
   lessions:
     -
@@ -111,7 +114,7 @@ data:
       color: magenta
     -
       id: CD-Starter
-      title: Corporate Design 
+      title: Corporate Design
       color: black
     -
       id: Fontdesign

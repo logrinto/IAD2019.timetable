@@ -14,13 +14,15 @@ data:
         title: Frühlingssemester 2020
         href: /2020-FS
         class: current
+      -
+        title: Herbstsemester 2020
+        href: /2020-HS
 
   lessions:
     -
       id: LAB
       title: LAB
       color: dark-red
-
     -
       id: infografik
       title: Infografik
@@ -547,11 +549,11 @@ data:
         morning:
           teacher:
           lession:
-          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift) 
+          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift)
         afternoon:
           teacher:
           lession:
-          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift) 
+          comment: Ausfall – Lektion wurde auf KW14 verschoben (anstatt Tag der Scchrift)
       SA:
         morning:
           teacher: MW

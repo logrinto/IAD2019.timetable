@@ -1,0 +1,706 @@
+id: IAD2019-2020HS
+data:
+  semester:
+    title: Herbstsemester 2020
+    slug: 2020-HS
+    class: IAD2019
+    room: Zimmer 411 · Schule für Gestaltung Zürich, Ausstellungsstrasse 104, 8005 Zürich
+    notes: ""
+    links:
+      -
+        title: Herbstsemester 2019
+        href: /2019-HS
+      -
+        title: Frühlingssemester 2020
+        href: /2020-FS
+      -
+        title: Herbstsemester 2020
+        href: /2020-HS
+        class: current
+
+  lessions:
+    -
+      id: LAB
+      title: LAB
+      color: dark-red
+
+    -
+      id: infografik
+      title: Infografik
+      color: petrol
+    -
+      id: ArtContext
+      title: Medien-/Technologiegeschichte
+      color: violet
+    -
+      id: TypeHistory
+      title: Technologiegeschichte der Schrift
+      color: violet
+    -
+      id: ChangeMngmnt
+      title: Zukunft – Umgang mit der Ungewissheit
+      color: petrol
+    -
+      id: ExpStory
+      title: Experimentelles Erzählen
+      color: light-green
+    -
+      id: community
+      title: Community Building
+      color: cold-green
+    -
+      id: InteractiveGraphic
+      title: Interaktive Grafiken
+      color: cyan
+    -
+      id: cms
+      title: CMS & API
+      color: cyan
+    -
+      id: FontDay
+      title: "Abgesagt: Tag der Schrift"
+      color: cold-green
+    -
+      id: diplom
+      title: Diplom (selbstständige Arbeit)
+      color: green
+    -
+      id: geolocation
+      title: Maps und Daten*
+      color: orange
+
+    -
+      id: blogs
+      title: Bolgs und Typografie
+      color: light-brown
+    -
+      id: csInterface
+      title: Case Study – Interface
+      color: mint
+
+    -
+      id: CD-Starter
+      title: Corporate Design (UX)*
+      color: black
+    -
+      id: production
+      title: Digitale/Analoge Produktionsmittel
+      color: dark-green
+    -
+      id: FabLab
+      title: Digital Fabrication
+      color: green
+
+    -
+      id: socialMedia
+      title: Konzeption und Social Media
+      color: magenta
+
+    -
+      id: AltDesign
+      title: Alternate & Design
+      color: cyan
+
+    -
+      id: ProjektWeek
+      title: Projektwoche
+      color: gray-violet
+    -
+      id: ProjectManagement
+      title: Projektplanung
+      color: light-brown
+
+    -
+      id: DataJournalism
+      title: Interaktion und Journalismus
+      color: gray-violet
+
+
+
+    -
+      id: DataLiteracy
+      title: Journalismus – Data Literacy
+      color: gray-violet
+
+    -
+      id: IoT
+      title: Internet of Things
+      color: magenta
+
+    -
+      id: TypoDay
+      title: Tag der Schrift
+      color: cold-green
+
+    -
+      id: FontOnScreen
+      title: Bildschirme und Fonts
+      color: green-gray
+
+    -
+      id: Storytelling
+      title: Vom Platzhalter zur Geschichte
+      color: black
+
+
+
+
+
+    -
+      id: colormanagement
+      title: Color Management
+      color: light-brown
+
+  #  Crossmedia:
+  #    title: Crossmedia von der Datenbank zur Ausgabe
+  #    color: gray-violet
+
+    -
+      id: GridModule
+      title: Grids & Modules  – Systeme für die Gestaltung
+      color: magenta
+    -
+      id: DiyHardware
+      title: Interaktion mit DIY–Hardware
+      color: bordeaux
+    -
+      id: Agil
+      title: Agile Planung
+      color: light-brown
+    -
+      id: Costs
+      title: Was kostet meine Stunde?
+      color: orange
+    -
+      id: Business
+      title: Unternehmensziele
+      color: orange
+    -
+      id: eq
+      title: Emotional Intelligence
+      color: orange
+  #  Guest:
+  #    title: Gastreferat
+  #    color: mint
+
+  date:
+    -
+      id: KW34-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW35-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW36-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW37-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW38-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW39-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW40-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW41-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW42-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW43-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW44-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW45-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW46-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW47-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW48-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW49-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW50-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW51-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW52-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW01-2020
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW02-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW03-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW04-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW05-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW06-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+    -
+      id: KW07-2021
+      FR:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 
+      SA:
+        morning:
+          teacher: 
+          lession: 
+          comment: 
+        afternoon:
+          teacher: 
+          lession: 
+          comment: 

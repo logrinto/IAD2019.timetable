@@ -1,7 +1,7 @@
 var fs = require('fs')
 var moment = require('moment');
 
-let dataFile = './semester2018FS.yaml'
+let dataFile = './semester2020HS.yaml'
 
 fs.readFile(dataFile, 'utf8', function (err, data) {
   if (err) {
