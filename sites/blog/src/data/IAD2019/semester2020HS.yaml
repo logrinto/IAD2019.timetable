@@ -25,7 +25,7 @@ data:
       color: dark-red
     -
       id: 3d
-      title: 3D im Browser
+      title: 3D im Browser*
       color: gray-violet
     -
       id: editorialDesign
@@ -232,12 +232,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: UB
-          lession: Business
+          teacher: BP
+          lession: userinterfaces
           comment:
         afternoon:
-          teacher: UB
-          lession: Business
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW35-2020
@@ -252,12 +252,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: UB
-          lession: Business
+          teacher: BP
+          lession: userinterfaces
           comment:
         afternoon:
-          teacher: UB
-          lession: Business
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW36-2020
@@ -452,23 +452,23 @@ data:
           comment:
       SA:
         morning:
-          teacher: BP
-          lession: userinterfaces
+          teacher: UB
+          lession: Business
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: UB
+          lession: Business
           comment:
     -
       id: KW46-2020
       FR:
         morning:
-          teacher: BP
-          lession: userinterfaces
+          teacher: UB
+          lession: Business
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: UB
+          lession: Business
           comment:
       SA:
         morning:
