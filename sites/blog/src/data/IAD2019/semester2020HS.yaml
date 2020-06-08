@@ -37,11 +37,11 @@ data:
       color: light-brown
     -
      id: codeDesign
-     title: Code & Design
+     title: Code & Design*
      color: mint
     -
       id: Publisher
-      title: Verlegen und Verlage (eBook)
+      title: Verlegen und Verlage (eBook)*
       color: green
     -
       id: Law
@@ -49,11 +49,11 @@ data:
       color: light-green
     -
       id: MotionDesign
-      title: Motion Design
+      title: Motion Design*
       color: violet
     -
       id: userinterfaces
-      title: Userinterfaces
+      title: Userinterfaces*
       color: orange
     -
       id: OpenSource
@@ -101,7 +101,7 @@ data:
       color: green
     -
       id: geolocation
-      title: Maps und Daten
+      title: Maps und Daten*
       color: cyan
 
     -
@@ -110,7 +110,7 @@ data:
       color: light-brown
     -
       id: csInterface
-      title: Case Study – Interface
+      title: Case Study – Interface*
       color: mint
 
     -
@@ -159,7 +159,7 @@ data:
 
     -
       id: IoT
-      title: Internet of Things
+      title: Internet of Things*
       color: magenta
 
     -
@@ -232,12 +232,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: BP
-          lession: userinterfaces
+          teacher: RI
+          lession: Law
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: RI
+          lession: Law
           comment:
     -
       id: KW35-2020
@@ -252,7 +252,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -292,18 +292,18 @@ data:
           comment:
       SA:
         morning:
-          teacher: RI
-          lession: Law
+          teacher: FLS
+          lession: userinterfaces
           comment:
         afternoon:
-          teacher: RI
-          lession: Law
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW38-2020
       FR:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -332,7 +332,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -343,7 +343,7 @@ data:
       id: KW40-2020
       FR:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -403,7 +403,7 @@ data:
       id: KW43-2020
       FR:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -423,7 +423,7 @@ data:
       id: KW44-2020
       FR:
         morning:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
         afternoon:
@@ -487,7 +487,7 @@ data:
           lession: editorialDesign
           comment:
         afternoon:
-          teacher: BP
+          teacher: FLS
           lession: userinterfaces
           comment:
       SA:
