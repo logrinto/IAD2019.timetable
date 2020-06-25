@@ -82,6 +82,10 @@ data:
       name: Jane Gebel
       comment:
     -
+      id: JG-SH
+      name: Jane Gebel & Susanne Hofer
+      comment:
+    -
       id: AC
       name: Andrea Caprez
       comment:

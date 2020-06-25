@@ -110,7 +110,7 @@ data:
       color: light-brown
     -
       id: csInterface
-      title: Case Study – Interface*
+      title: Case Study – Interface
       color: mint
 
     -
@@ -272,18 +272,18 @@ data:
           comment:
       SA:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
     -
       id: KW37-2020
       FR:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
@@ -312,7 +312,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
@@ -323,7 +323,7 @@ data:
       id: KW39-2020
       FR:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
@@ -352,7 +352,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
@@ -407,7 +407,7 @@ data:
           lession: userinterfaces
           comment:
         afternoon:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
       SA:
@@ -432,7 +432,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: JG
+          teacher: JG-SH
           lession: MotionDesign
           comment:
         afternoon:
