@@ -558,11 +558,11 @@ data:
         morning:
           teacher: MW
           lession: ProjectManagement
-          comment:
+          comment: Remote Teaching (COVID-19)
         afternoon:
           teacher: MW
           lession: ProjectManagement
-          comment:
+          comment: Remote Teaching (COVID-19)
     -
       id: KW27-2020
       FR:
@@ -578,11 +578,11 @@ data:
         morning:
           teacher: MW
           lession: ProjectManagement
-          comment:
+          comment: Remote Teaching (COVID-19)
         afternoon:
           teacher: MW
           lession: ProjectManagement
-          comment:
+          comment: Remote Teaching (COVID-19)
     -
       id: KW28-2020
       FR:
