@@ -252,11 +252,11 @@ data:
           comment:
       SA:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
     -
@@ -292,7 +292,7 @@ data:
           comment:
       SA:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
@@ -303,7 +303,7 @@ data:
       id: KW38-2020
       FR:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
@@ -343,7 +343,7 @@ data:
       id: KW40-2020
       FR:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
@@ -403,7 +403,7 @@ data:
       id: KW43-2020
       FR:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
@@ -423,7 +423,7 @@ data:
       id: KW44-2020
       FR:
         morning:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
         afternoon:
@@ -443,11 +443,11 @@ data:
       id: KW45-2020
       FR:
         morning:
-          teacher: RR
+          teacher:
           lession: Publisher
           comment:
         afternoon:
-          teacher: RR
+          teacher:
           lession: Publisher
           comment:
       SA:
@@ -472,11 +472,11 @@ data:
           comment:
       SA:
         morning:
-          teacher: RZ
+          teacher:
           lession: geolocation
           comment:
         afternoon:
-          teacher: RZ
+          teacher:
           lession: geolocation
           comment:
     -
@@ -487,7 +487,7 @@ data:
           lession: editorialDesign
           comment:
         afternoon:
-          teacher: FLS
+          teacher: FLS-
           lession: userinterfaces
           comment:
       SA:
@@ -663,20 +663,20 @@ data:
       id: KW04-2021
       FR:
         morning:
-          teacher: MB
+          teacher: MB-
           lession: IoT
           comment:
         afternoon:
-          teacher: MB
+          teacher: MB-
           lession: IoT
           comment:
       SA:
         morning:
-          teacher: MB
+          teacher: MB-
           lession: IoT
           comment:
         afternoon:
-          teacher: MB
+          teacher: MB-
           lession: IoT
           comment:
     -
