@@ -37,7 +37,7 @@ data:
       color: light-brown
     -
      id: codeDesign
-     title: Code & Design*
+     title: Code & Design
      color: mint
     -
       id: Publisher
