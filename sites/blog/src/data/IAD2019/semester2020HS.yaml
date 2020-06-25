@@ -552,11 +552,11 @@ data:
           comment:
       SA:
         morning:
-          teacher:
+          teacher: JS-SH
           lession: csInterface
           comment:
         afternoon:
-          teacher:
+          teacher: JS-SH
           lession: csInterface
           comment:
     -
