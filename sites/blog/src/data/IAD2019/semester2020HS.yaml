@@ -227,8 +227,8 @@ data:
           lession: LAB
           comment:
         afternoon:
-          teacher: HZ
-          lession: codeDesign
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
@@ -243,8 +243,8 @@ data:
       id: KW35-2020
       FR:
         morning:
-          teacher: HZ
-          lession: codeDesign
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
           teacher: SH
@@ -256,8 +256,8 @@ data:
           lession: userinterfaces
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: FLS
+          lession: userinterfaces
           comment:
     -
       id: KW36-2020
@@ -267,8 +267,8 @@ data:
           lession: codeDesign
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: HZ
+          lession: codeDesign
           comment:
       SA:
         morning:
@@ -332,8 +332,8 @@ data:
           comment:
       SA:
         morning:
-          teacher: FLS
-          lession: userinterfaces
+          teacher: HZ
+          lession: codeDesign
           comment:
         afternoon:
           teacher: HZ
