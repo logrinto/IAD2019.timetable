@@ -33,7 +33,7 @@ data:
       color: cyan
     -
       id: InteractionJournalism
-      title: Interaktion und Journalismus
+      title: Interaktion und Journalismus*
       color: light-brown
     -
      id: codeDesign
