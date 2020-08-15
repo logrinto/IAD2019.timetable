@@ -33,7 +33,7 @@ data:
       color: cyan
     -
       id: InteractionJournalism
-      title: Interaktion und Journalismus*
+      title: Interaktion und Journalismus
       color: light-brown
     -
      id: codeDesign
@@ -223,12 +223,12 @@ data:
       id: KW34-2020
       FR:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: TG
+          lession: InteractionJournalism
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: TG
+          lession: InteractionJournalism
           comment:
       SA:
         morning:
@@ -243,12 +243,12 @@ data:
       id: KW35-2020
       FR:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: TG
+          lession: InteractionJournalism
           comment:
         afternoon:
-          teacher: SH
-          lession: OpenSource
+          teacher: TG
+          lession: InteractionJournalism
           comment:
       SA:
         morning:
@@ -632,12 +632,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: TG
-          lession: InteractionJournalism
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher: TG
-          lession: InteractionJournalism
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW03-2021
@@ -652,12 +652,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: TG
-          lession: InteractionJournalism
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher: TG
-          lession: InteractionJournalism
+          teacher: SH
+          lession: OpenSource
           comment:
     -
       id: KW04-2021
