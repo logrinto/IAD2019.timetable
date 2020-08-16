@@ -48,7 +48,7 @@ export const query = graphql`
       }
     }
 
-    allIad2019Yaml(filter: { id: { eq: "IAD2019-2020FS" } }) {
+    allIad2019Yaml(filter: { id: { eq: "IAD2019-2020HS" } }) {
       edges {
         node {
           data {
