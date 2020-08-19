@@ -49,12 +49,12 @@ data:
       color: light-green
     -
       id: MotionDesign
-      title: Motion Design*
+      title: Motion Design
       color: violet
     -
-      id: userinterfaces
-      title: Userinterfaces*
-      color: orange
+      id: HumanCentered
+      title: Human-centered design
+      color: black
     -
       id: OpenSource
       title: OpenSource und Communities
@@ -292,23 +292,23 @@ data:
           comment:
       SA:
         morning:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
     -
       id: KW38-2020
       FR:
         morning:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
       SA:
         morning:
@@ -343,12 +343,12 @@ data:
       id: KW40-2020
       FR:
         morning:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
       SA:
         morning:
@@ -423,12 +423,12 @@ data:
       id: KW44-2020
       FR:
         morning:
-          teacher: FLS-
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher: FLS
-          lession: userinterfaces
+          teacher: AE
+          lession: HumanCentered
           comment:
       SA:
         morning:
@@ -443,12 +443,12 @@ data:
       id: KW45-2020
       FR:
         morning:
-          teacher:
-          lession: Publisher
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher:
-          lession: Publisher
+          teacher: AE
+          lession: HumanCentered
           comment:
       SA:
         morning:
@@ -472,23 +472,23 @@ data:
           comment:
       SA:
         morning:
-          teacher:
-          lession: geolocation
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher:
-          lession: geolocation
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW47-2020
       FR:
         morning:
-          teacher: MI
-          lession: editorialDesign
+          teacher: AE
+          lession: HumanCentered
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: AE
+          lession: HumanCentered
           comment:
       SA:
         morning:
@@ -507,8 +507,8 @@ data:
           lession: editorialDesign
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: MI
+          lession: editorialDesign
           comment:
       SA:
         morning:
