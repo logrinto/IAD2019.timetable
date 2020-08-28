@@ -252,12 +252,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: TG
+          lession: InteractionJournalism
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: TG
+          lession: InteractionJournalism
           comment:
     -
       id: KW36-2020
@@ -672,12 +672,12 @@ data:
           comment:
       SA:
         morning:
-          teacher: MB-
-          lession: IoT
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher: MB-
-          lession: IoT
+          teacher: SH
+          lession: LAB
           comment:
     -
       id: KW05-2021
