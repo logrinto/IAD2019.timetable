@@ -432,8 +432,8 @@ data:
           comment:
       SA:
         morning:
-          teacher: JG-SH
-          lession: MotionDesign
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
           teacher: HZ
@@ -472,8 +472,8 @@ data:
           comment:
       SA:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: JG-SH
+          lession: MotionDesign
           comment:
         afternoon:
           teacher: SH
