@@ -96,6 +96,10 @@ data:
       title: "Tag der Schrift"
       color: cold-green
     -
+      id: Ideation
+      title: "Ideation – Inputs, Erarbeitung und Austausch"
+      color: cold-green
+    -
       id: diplom
       title: Diplom (selbstständige Arbeit)
       color: green
@@ -492,13 +496,13 @@ data:
           comment:
       SA:
         morning:
-          teacher: JS
-          lession: FontDay
-          comment:
+          teacher: SH
+          lession: Ideation
+          comment: Ersetzt «Tag der Schrift»
         afternoon:
-          teacher: JS
-          lession: FontDay
-          comment:
+          teacher: SH
+          lession: Ideation
+          comment: Ersetzt «Tag der Schrift»
     -
       id: KW48-2020
       FR:
