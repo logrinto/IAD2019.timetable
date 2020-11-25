@@ -162,8 +162,8 @@ data:
       color: gray-violet
 
     -
-      id: IoT
-      title: Internet of Things*
+      id: CarteBlanche
+      title: Carte Blanche
       color: magenta
 
     -
@@ -667,21 +667,21 @@ data:
       id: KW04-2021
       FR:
         morning:
-          teacher: MB-
-          lession: IoT
+          teacher: SH
+          lession: LAB
           comment:
         afternoon:
-          teacher: MB-
-          lession: IoT
+          teacher: SH
+          lession: LAB
           comment:
       SA:
         morning:
-          teacher: SH
-          lession: LAB
+          teacher: ADS
+          lession: CarteBlanche
           comment:
         afternoon:
-          teacher: SH
-          lession: LAB
+          teacher: ADS
+          lession: CarteBlanche
           comment:
     -
       id: KW05-2021
